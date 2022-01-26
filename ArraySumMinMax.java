@@ -12,7 +12,7 @@ public class ArraySumMinMax
             arr[i]=sc.nextInt();
         }
         Arrays.sort(arr);
-        System.out.println( Arrays.toString(arr));
+       // System.out.println( Arrays.toString(arr));
         int m=0;
         int n=0;
         
